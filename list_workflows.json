@@ -1,0 +1,12 @@
+{
+    "PROD": {
+        "date": "2022-07-11",
+        "user": "juparog",
+        "wfName": "SEND_FILES_PROD"
+    },
+    "TEST": {
+        "date": "2022-07-11",
+        "user": "xaaamaz",
+        "wfName": "SEND_FILES_TEST"
+    }
+}
